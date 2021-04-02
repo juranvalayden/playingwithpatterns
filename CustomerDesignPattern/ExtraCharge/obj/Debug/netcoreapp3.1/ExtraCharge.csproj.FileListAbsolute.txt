@@ -1,0 +1,12 @@
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\bin\Debug\netcoreapp3.1\ExtraCharge.deps.json
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\bin\Debug\netcoreapp3.1\ExtraCharge.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\bin\Debug\netcoreapp3.1\ExtraCharge.pdb
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\bin\Debug\netcoreapp3.1\CustomerInterface.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\bin\Debug\netcoreapp3.1\CustomerInterface.pdb
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\obj\Debug\netcoreapp3.1\ExtraCharge.csprojAssemblyReference.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\obj\Debug\netcoreapp3.1\ExtraCharge.AssemblyInfoInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\obj\Debug\netcoreapp3.1\ExtraCharge.AssemblyInfo.cs
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\obj\Debug\netcoreapp3.1\ExtraCharge.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\obj\Debug\netcoreapp3.1\ExtraCharge.csproj.CopyComplete
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\obj\Debug\netcoreapp3.1\ExtraCharge.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\ExtraCharge\obj\Debug\netcoreapp3.1\ExtraCharge.pdb

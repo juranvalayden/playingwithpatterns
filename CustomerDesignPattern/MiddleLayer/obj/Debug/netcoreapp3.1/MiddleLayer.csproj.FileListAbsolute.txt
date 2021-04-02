@@ -1,0 +1,12 @@
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\bin\Debug\netcoreapp3.1\MiddleLayer.deps.json
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\bin\Debug\netcoreapp3.1\CustomerInterface.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\bin\Debug\netcoreapp3.1\CustomerInterface.pdb
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\obj\Debug\netcoreapp3.1\MiddleLayer.csprojAssemblyReference.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfoInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\obj\Debug\netcoreapp3.1\MiddleLayer.AssemblyInfo.cs
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\obj\Debug\netcoreapp3.1\MiddleLayer.csproj.CopyComplete
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\obj\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\MiddleLayer\obj\Debug\netcoreapp3.1\MiddleLayer.pdb

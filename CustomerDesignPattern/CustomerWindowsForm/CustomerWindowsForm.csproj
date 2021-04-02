@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerInterface\CustomerInterface.csproj" />
+    <ProjectReference Include="..\DataAccessLayerInterface\DataAccessLayerInterface.csproj" />
+    <ProjectReference Include="..\FactoryCustomer\FactoryCustomer.csproj" />
+    <ProjectReference Include="..\FactoryDataAccessLayer\FactoryDataAccessLayer.csproj" />
+  </ItemGroup>
+
+</Project>

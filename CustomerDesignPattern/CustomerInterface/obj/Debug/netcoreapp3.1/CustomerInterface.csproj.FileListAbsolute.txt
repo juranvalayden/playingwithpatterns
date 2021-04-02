@@ -1,0 +1,9 @@
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\CustomerInterface\bin\Debug\netcoreapp3.1\CustomerInterface.deps.json
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\CustomerInterface\bin\Debug\netcoreapp3.1\CustomerInterface.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\CustomerInterface\bin\Debug\netcoreapp3.1\CustomerInterface.pdb
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\CustomerInterface\obj\Debug\netcoreapp3.1\CustomerInterface.csprojAssemblyReference.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\CustomerInterface\obj\Debug\netcoreapp3.1\CustomerInterface.AssemblyInfoInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\CustomerInterface\obj\Debug\netcoreapp3.1\CustomerInterface.AssemblyInfo.cs
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\CustomerInterface\obj\Debug\netcoreapp3.1\CustomerInterface.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\CustomerInterface\obj\Debug\netcoreapp3.1\CustomerInterface.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\CustomerInterface\obj\Debug\netcoreapp3.1\CustomerInterface.pdb

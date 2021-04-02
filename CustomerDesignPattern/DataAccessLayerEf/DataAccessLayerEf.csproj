@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerInterface\CustomerInterface.csproj" />
+    <ProjectReference Include="..\DataAccessLayerInterface\DataAccessLayerInterface.csproj" />
+    <ProjectReference Include="..\MiddleLayer\MiddleLayer.csproj" />
+  </ItemGroup>
+
+</Project>

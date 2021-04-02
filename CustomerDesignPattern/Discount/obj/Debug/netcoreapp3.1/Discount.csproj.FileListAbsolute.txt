@@ -1,0 +1,12 @@
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\bin\Debug\netcoreapp3.1\Discount.deps.json
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\bin\Debug\netcoreapp3.1\Discount.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\bin\Debug\netcoreapp3.1\Discount.pdb
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\bin\Debug\netcoreapp3.1\CustomerInterface.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\bin\Debug\netcoreapp3.1\CustomerInterface.pdb
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\obj\Debug\netcoreapp3.1\Discount.csprojAssemblyReference.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\obj\Debug\netcoreapp3.1\Discount.AssemblyInfoInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\obj\Debug\netcoreapp3.1\Discount.AssemblyInfo.cs
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\obj\Debug\netcoreapp3.1\Discount.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\obj\Debug\netcoreapp3.1\Discount.csproj.CopyComplete
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\obj\Debug\netcoreapp3.1\Discount.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\Discount\obj\Debug\netcoreapp3.1\Discount.pdb

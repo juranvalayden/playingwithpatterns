@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Unity" Version="5.11.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerInterface\CustomerInterface.csproj" />
+    <ProjectReference Include="..\DataAccessLayerAdo\DataAccessLayerAdo.csproj" />
+    <ProjectReference Include="..\DataAccessLayerEf\DataAccessLayerEf.csproj" />
+  </ItemGroup>
+
+</Project>

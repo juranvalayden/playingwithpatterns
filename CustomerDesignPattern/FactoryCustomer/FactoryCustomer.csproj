@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Unity" Version="5.11.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerInterface\CustomerInterface.csproj" />
+    <ProjectReference Include="..\Discount\Discount.csproj" />
+    <ProjectReference Include="..\ExtraCharge\ExtraCharge.csproj" />
+    <ProjectReference Include="..\MiddleLayer\MiddleLayer.csproj" />
+    <ProjectReference Include="..\Validation\Validation.csproj" />
+  </ItemGroup>
+
+</Project>

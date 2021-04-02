@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerUserInterface\\CustomerUserInterface.csproj": {}
+  },
+  "projects": {
+    "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj",
+        "projectName": "CustomerInterface",
+        "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerUserInterface\\CustomerUserInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerUserInterface\\CustomerUserInterface.csproj",
+        "projectName": "CustomerUserInterface",
+        "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerUserInterface\\CustomerUserInterface.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerUserInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj": {
+                "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj"
+              },
+              "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Factory\\Factory.csproj": {
+                "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Factory\\Factory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Factory\\Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Factory\\Factory.csproj",
+        "projectName": "Factory",
+        "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Factory\\Factory.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj": {
+                "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj"
+              },
+              "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\MiddleLayer\\MiddleLayer.csproj": {
+                "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\MiddleLayer\\MiddleLayer.csproj"
+              },
+              "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Validation\\Validation.csproj": {
+                "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Validation\\Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\MiddleLayer\\MiddleLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\MiddleLayer\\MiddleLayer.csproj",
+        "projectName": "MiddleLayer",
+        "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\MiddleLayer\\MiddleLayer.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\MiddleLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj": {
+                "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Validation\\Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Validation\\Validation.csproj",
+        "projectName": "Validation",
+        "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Validation\\Validation.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\Validation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj": {
+                "projectPath": "C:\\Development\\Udemy\\Design Patterns\\Redo\\CustomerDesignPattern\\CustomerInterface\\CustomerInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

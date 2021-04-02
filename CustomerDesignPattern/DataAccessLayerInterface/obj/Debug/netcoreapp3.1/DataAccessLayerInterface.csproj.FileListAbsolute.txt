@@ -1,0 +1,9 @@
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\DataAccessLayerInterface\bin\Debug\netcoreapp3.1\DataAccessLayerInterface.deps.json
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\DataAccessLayerInterface\bin\Debug\netcoreapp3.1\DataAccessLayerInterface.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\DataAccessLayerInterface\bin\Debug\netcoreapp3.1\DataAccessLayerInterface.pdb
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\DataAccessLayerInterface\obj\Debug\netcoreapp3.1\DataAccessLayerInterface.csprojAssemblyReference.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\DataAccessLayerInterface\obj\Debug\netcoreapp3.1\DataAccessLayerInterface.AssemblyInfoInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\DataAccessLayerInterface\obj\Debug\netcoreapp3.1\DataAccessLayerInterface.AssemblyInfo.cs
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\DataAccessLayerInterface\obj\Debug\netcoreapp3.1\DataAccessLayerInterface.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\DataAccessLayerInterface\obj\Debug\netcoreapp3.1\DataAccessLayerInterface.dll
+C:\Development\Udemy\Design Patterns\Redo\CustomerDesignPattern\DataAccessLayerInterface\obj\Debug\netcoreapp3.1\DataAccessLayerInterface.pdb
